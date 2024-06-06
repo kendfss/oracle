@@ -1,0 +1,8 @@
+github.com/davecgh/go-spew v1.1.1 h1:vj9j/u1bqnvCEfJOwUhtlOARqs3+rkHYY13jYWTU97c=
+github.com/kendfss/oprs v0.0.0-20240606185027-be567f9f88ff h1:NKMnEtUgoi8l3HuOAp62B3jxUhAZjo/5F6trLFH78KM=
+github.com/kendfss/oprs v0.0.0-20240606185027-be567f9f88ff/go.mod h1:TCcgFim+tsNEmiTAzNOVPMwqaVv6Z71FSYsHYBtEmE8=
+github.com/kendfss/rules v0.0.0-20230516200457-31591780a934 h1:3o6TzwDB++hu258delmj4NfJIXReihp0wlbyXMaNTSU=
+github.com/kendfss/rules v0.0.0-20230516200457-31591780a934/go.mod h1:FMcRXdSCnJKWC/hBPlo44ZMtBHbuPt45huFd2F5yI/4=
+github.com/pmezard/go-difflib v1.0.0 h1:4DBwDE0NGyQoBHbLQYPwSUPoCMWR5BEzIk/f1lZbAQM=
+github.com/stretchr/testify v1.8.2 h1:+h33VjcLVPDHtOdpUCuF+7gSuG3yGIftsP1YvFihtJ8=
+gopkg.in/yaml.v3 v3.0.1 h1:fxVm/GzAzEWqLHuvctI91KS9hhNmmWOoWu0XTYJS7CA=
